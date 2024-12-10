@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png"><img src="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png" alt="CRM Hubspot" width="80"></a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="google_colaboratory" width="60"></a>
   <a href="https://github.com/user-attachments/assets/918c26d5-c4a3-4270-9419-448307a4605a"><img src="https://github.com/user-attachments/assets/918c26d5-c4a3-4270-9419-448307a4605a" alt="gemini" width="80"></a>
   <br>
   Sentiment Analysis using Google Gemini Pro
